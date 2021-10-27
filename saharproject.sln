@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moviestufflibrary", "moviestufflibrary\moviestufflibrary.csproj", "{170A6A24-87EB-4F2F-88B5-22A0C751D3AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movieclasslibrary", "..\movieclasslibrary\movieclasslibrary\movieclasslibrary.csproj", "{B1F96CDC-CB9B-4897-B646-08E0E8E3816C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{FA829384-1348-4FE8-AA80-E8726B540627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA829384-1348-4FE8-AA80-E8726B540627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA829384-1348-4FE8-AA80-E8726B540627}.Release|Any CPU.Build.0 = Release|Any CPU
-		{170A6A24-87EB-4F2F-88B5-22A0C751D3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{170A6A24-87EB-4F2F-88B5-22A0C751D3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{170A6A24-87EB-4F2F-88B5-22A0C751D3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{170A6A24-87EB-4F2F-88B5-22A0C751D3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F96CDC-CB9B-4897-B646-08E0E8E3816C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F96CDC-CB9B-4897-B646-08E0E8E3816C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F96CDC-CB9B-4897-B646-08E0E8E3816C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F96CDC-CB9B-4897-B646-08E0E8E3816C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
